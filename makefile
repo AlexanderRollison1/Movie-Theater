@@ -1,5 +1,5 @@
-#Alexander Rollison 1001681800
-SRC1 = Code8_1001681800.c
+#Alexander Rollison
+SRC1 = Code8.c
 SRC2 = BSTLib.c
 SRC3 = ListLib.c
 SRC4 = MovieTheaterLib.c
